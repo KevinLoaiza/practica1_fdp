@@ -1,0 +1,9 @@
+LOAIZA RAMÍREZ KEVIN ALONSO
+
+\* Hello my World Program*/
+#include <stdio.h>
+main ()
+{
+printf ("Hello World c;");
+printf ("GOOD BYE! V"); //línea agregada
+}
